@@ -214,16 +214,3 @@ GinitrainRF
 GinitestRF=ineq(test$prob1RF, "gini")
 GinitestRF
 
-
-
-
-
-
-
-
-
-
-
-
-
-
